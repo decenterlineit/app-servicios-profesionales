@@ -1,0 +1,1 @@
+export function createBooking(input){return {...input,id:`book-${Date.now()}`,userId:'user-001',status:'pending',timeline:['created','assigned','on_way','in_progress','completed'].map((key,i)=>({key,label:['Solicitud creada','Profesional asignado','En camino','Trabajo en curso','Finalizado'][i],done:i===0}))};}

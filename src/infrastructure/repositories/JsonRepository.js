@@ -1,0 +1,1 @@
+export class JsonRepository{constructor(path){this.path=path;this.cache=null;}async getAll(){if(this.cache)return this.cache;const response=await fetch(this.path);if(!response.ok)throw new Error(`No se pudo cargar ${this.path}`);this.cache=await response.json();return this.cache;}async getById(id){return (await this.getAll()).find(item=>item.id===id);}}

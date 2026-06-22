@@ -1,0 +1,4 @@
+[
+ {"id":"conv-001","professionalId":"pro-001","userId":"user-001","lastMessage":"Llego en aproximadamente 15 minutos.","unreadCount":2,"messages":[{"id":"m1","sender":"user","text":"Hola Martín, ¿podés revisar una pérdida hoy?","time":"13:02"},{"id":"m2","sender":"professional","text":"Sí, termino un trabajo y voy para allá.","time":"13:05"},{"id":"m3","sender":"professional","text":"Llego en aproximadamente 15 minutos.","time":"14:01"}]},
+ {"id":"conv-002","professionalId":"pro-003","userId":"user-001","lastMessage":"Perfecto, llevamos todos los insumos.","unreadCount":0,"messages":[{"id":"m4","sender":"user","text":"¿Incluye productos de limpieza?","time":"Ayer"},{"id":"m5","sender":"professional","text":"Perfecto, llevamos todos los insumos.","time":"Ayer"}]}
+]

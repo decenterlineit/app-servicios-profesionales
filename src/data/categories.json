@@ -1,0 +1,10 @@
+[
+ {"id":"plumbing","name":"Plomería","icon":"💧","description":"Soluciones para pérdidas, cañerías, griferías y sanitarios.","isActive":true,"order":1},
+ {"id":"electricity","name":"Electricidad","icon":"⚡","description":"Instalaciones, reparaciones y urgencias eléctricas seguras.","isActive":true,"order":2},
+ {"id":"cleaning","name":"Limpieza","icon":"✨","description":"Limpieza profesional para casas y departamentos.","isActive":true,"order":3},
+ {"id":"painting","name":"Pintura","icon":"🎨","description":"Pintura interior y exterior con terminaciones prolijas.","isActive":true,"order":4},
+ {"id":"locksmith","name":"Cerrajería","icon":"🔑","description":"Aperturas, cambios de cerradura y copias de llaves.","isActive":true,"order":5},
+ {"id":"gardening","name":"Jardinería","icon":"🌿","description":"Mantenimiento, poda y diseño de espacios verdes.","isActive":true,"order":6},
+ {"id":"appliances","name":"Electrodomésticos","icon":"🔧","description":"Diagnóstico y reparación de equipos del hogar.","isActive":true,"order":7},
+ {"id":"moving","name":"Mudanzas","icon":"📦","description":"Traslados seguros con personal y vehículo.","isActive":true,"order":8}
+]

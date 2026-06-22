@@ -1,0 +1,8 @@
+.app-shell{padding-bottom:42px}
+.app-shell.has-bottom-nav{padding-bottom:104px}
+.bottom-nav{bottom:22px;padding-bottom:7px}
+.legal-footer{position:fixed;z-index:40;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:430px;height:22px;display:flex;align-items:center;justify-content:center;background:#050505;color:#fff}
+.legal-footer a{color:#fff;font-size:8px;line-height:1;letter-spacing:.02em;text-align:center}
+.chat-form{bottom:22px;padding-bottom:10px}
+.bottom-cta{bottom:34px}
+@media(min-width:600px){.bottom-nav{bottom:42px;border-radius:0}.legal-footer{bottom:20px;border-radius:0 0 28px 28px}.chat-form{bottom:42px}}

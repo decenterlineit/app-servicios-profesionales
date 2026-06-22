@@ -1,0 +1,5 @@
+[
+ {"id":"rev-001","bookingId":"book-old-1","professionalId":"pro-001","userId":"user-002","rating":5,"comment":"Muy prolijo, explicó el problema y dejó todo funcionando.","estimatedCost":30000,"images":[],"status":"published","createdAt":"2026-06-10"},
+ {"id":"rev-002","bookingId":"book-old-2","professionalId":"pro-001","userId":"user-003","rating":5,"comment":"Llegó puntual y resolvió la pérdida rápido.","estimatedCost":24000,"images":[],"status":"published","createdAt":"2026-05-28"},
+ {"id":"rev-003","bookingId":"book-old-3","professionalId":"pro-003","userId":"user-004","rating":4,"comment":"Buen servicio, el equipo fue amable y cuidadoso.","estimatedCost":48000,"images":[],"status":"reported","createdAt":"2026-05-20"}
+]
